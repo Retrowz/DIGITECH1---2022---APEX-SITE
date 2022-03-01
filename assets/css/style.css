@@ -346,13 +346,13 @@
 	}
 
 	.\31 1u, .\31 1u\24 {
-		width: 91.6666666667%;
+		width: 91%;
 		clear: none;
 		margin-left: 0;
 	}
 
 	.\31 0u, .\31 0u\24 {
-		width: 83.3333333333%;
+		width: 83%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -364,13 +364,13 @@
 	}
 
 	.\38 u, .\38 u\24 {
-		width: 66.6666666667%;
+		width: 66%;
 		clear: none;
 		margin-left: 0;
 	}
 
 	.\37 u, .\37 u\24 {
-		width: 58.3333333333%;
+		width: 58.%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -382,13 +382,13 @@
 	}
 
 	.\35 u, .\35 u\24 {
-		width: 41.6666666667%;
+		width: 41%;
 		clear: none;
 		margin-left: 0;
 	}
 
 	.\34 u, .\34 u\24 {
-		width: 33.3333333333%;
+		width: 33%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -400,13 +400,13 @@
 	}
 
 	.\32 u, .\32 u\24 {
-		width: 16.6666666667%;
+		width: 16%;
 		clear: none;
 		margin-left: 0;
 	}
 
 	.\31 u, .\31 u\24 {
-		width: 8.3333333333%;
+		width: 8%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -427,11 +427,11 @@
 	}
 
 	.\-11u {
-		margin-left: 91.66667%;
+		margin-left: 91%;
 	}
 
 	.\-10u {
-		margin-left: 83.33333%;
+		margin-left: 83%;
 	}
 
 	.\-9u {
@@ -439,11 +439,11 @@
 	}
 
 	.\-8u {
-		margin-left: 66.66667%;
+		margin-left: 66%;
 	}
 
 	.\-7u {
-		margin-left: 58.33333%;
+		margin-left: 58%;
 	}
 
 	.\-6u {
@@ -451,11 +451,11 @@
 	}
 
 	.\-5u {
-		margin-left: 41.66667%;
+		margin-left: 41%;
 	}
 
 	.\-4u {
-		margin-left: 33.33333%;
+		margin-left: 33%;
 	}
 
 	.\-3u {
@@ -463,11 +463,11 @@
 	}
 
 	.\-2u {
-		margin-left: 16.66667%;
+		margin-left: 16%;
 	}
 
 	.\-1u {
-		margin-left: 8.33333%;
+		margin-left: 8%;
 	}
 
 	@media screen and (max-width: 1680px) {
@@ -559,13 +559,13 @@
 		}
 
 		.\31 1u\28xlarge\29, .\31 1u\24\28xlarge\29 {
-			width: 91.6666666667%;
+			width: 91%;
 			clear: none;
 			margin-left: 0;
 		}
 
 		.\31 0u\28xlarge\29, .\31 0u\24\28xlarge\29 {
-			width: 83.3333333333%;
+			width: 83%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -577,13 +577,13 @@
 		}
 
 		.\38 u\28xlarge\29, .\38 u\24\28xlarge\29 {
-			width: 66.6666666667%;
+			width: 66%;
 			clear: none;
 			margin-left: 0;
 		}
 
 		.\37 u\28xlarge\29, .\37 u\24\28xlarge\29 {
-			width: 58.3333333333%;
+			width: 58%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -595,13 +595,13 @@
 		}
 
 		.\35 u\28xlarge\29, .\35 u\24\28xlarge\29 {
-			width: 41.6666666667%;
+			width: 41%;
 			clear: none;
 			margin-left: 0;
 		}
 
 		.\34 u\28xlarge\29, .\34 u\24\28xlarge\29 {
-			width: 33.3333333333%;
+			width: 33%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -613,13 +613,13 @@
 		}
 
 		.\32 u\28xlarge\29, .\32 u\24\28xlarge\29 {
-			width: 16.6666666667%;
+			width: 16%;
 			clear: none;
 			margin-left: 0;
 		}
 
 		.\31 u\28xlarge\29, .\31 u\24\28xlarge\29 {
-			width: 8.3333333333%;
+			width: 8%;
 			clear: none;
 			margin-left: 0;
 		}
@@ -640,11 +640,11 @@
 		}
 
 		.\-11u\28xlarge\29 {
-			margin-left: 91.66667%;
+			margin-left: 91%;
 		}
 
 		.\-10u\28xlarge\29 {
-			margin-left: 83.33333%;
+			margin-left: 83%;
 		}
 
 		.\-9u\28xlarge\29 {
@@ -652,11 +652,11 @@
 		}
 
 		.\-8u\28xlarge\29 {
-			margin-left: 66.66667%;
+			margin-left: 66%;
 		}
 
 		.\-7u\28xlarge\29 {
-			margin-left: 58.33333%;
+			margin-left: 58%;
 		}
 
 		.\-6u\28xlarge\29 {
@@ -664,11 +664,11 @@
 		}
 
 		.\-5u\28xlarge\29 {
-			margin-left: 41.66667%;
+			margin-left: 41%;
 		}
 
 		.\-4u\28xlarge\29 {
-			margin-left: 33.33333%;
+			margin-left: 33%;
 		}
 
 		.\-3u\28xlarge\29 {
@@ -676,11 +676,11 @@
 		}
 
 		.\-2u\28xlarge\29 {
-			margin-left: 16.66667%;
+			margin-left: 16%;
 		}
 
 		.\-1u\28xlarge\29 {
-			margin-left: 8.33333%;
+			margin-left: 8%;
 		}
 
 	}
