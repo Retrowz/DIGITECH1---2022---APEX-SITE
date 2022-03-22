@@ -3994,7 +3994,7 @@
 /* Banner */
 
 	.banner {
-		background-color: #8a4680;
+		background-color: #554953;
 		color: #e2d1df;
 		padding: 8em 0;
 		position: relative;
@@ -4260,6 +4260,7 @@
 		body.is-mobile .banner > article {
 			background-attachment: scroll;
 		}
+       
 
 /* Main */
 
