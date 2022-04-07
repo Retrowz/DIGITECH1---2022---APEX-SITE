@@ -288,6 +288,9 @@ var settings = {
 					side: 'right'
 				});
 
+
+
+        
 		// Header.
 			if (skel.vars.IEVersion < 9)
 				$header.removeClass('alt');
